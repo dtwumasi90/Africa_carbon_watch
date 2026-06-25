@@ -1,1 +1,2 @@
 # Africa_carbon_watch
+This report presents a comprehensive Power BI analytics project examining carbon dioxide (CO₂) emissions across 54 African nations spanning two decades (2000–2020). The analysis draws on 1,134 records covering 20 variables including emission by sector, GDP per capita, population, land-use change, and energy sources—to deliver data-driven insights relevant to climate policy, sustainable development, and regional energy transitions.
